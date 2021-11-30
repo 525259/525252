@@ -28,7 +28,7 @@ Good ${salam} ${pushname}, Have a nice day :)
 *${p+=1}.* ${prefix}kick _@tag_
 *${p+=1}.* ${prefix}add _number_
 *${p+=1}.* ${prefix}getpp _@tag_
-*${p+=1}.* ${prefix}tagall
+*${p+=1}.* ${prefix}внимание
 *${p+=1}.* ${prefix}linkgroup
 *${p+=1}.* ${prefix}revoke
 *${p+=1}.* ${prefix}leave
