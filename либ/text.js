@@ -25,8 +25,8 @@ Good ${salam} ${pushname}, Have a nice day :)
 *${p+=1}.* ${prefix}hidetag _text_
 *${p+=1}.* ${prefix}promote _@tag_
 *${p+=1}.* ${prefix}demote _@tag_
-*${p+=1}.* ${prefix}kick _@tag_
-*${p+=1}.* ${prefix}add _number_
+*${p+=1}.* ${prefix}удалить _@tag_
+*${p+=1}.* ${prefix}добавить _number_
 *${p+=1}.* ${prefix}getpp _@tag_
 *${p+=1}.* ${prefix}внимание
 *${p+=1}.* ${prefix}linkgroup
